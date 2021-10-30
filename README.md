@@ -9,14 +9,13 @@ I also learned how to be more often with my git commands to save my progress as 
 ## Installation
 
 Follow the following link to load code into a browser.
+
 [Horiseon](https://johndavis92790.github.io/urban-octo-telegram-main/)
 
 ## Usage
 Here is a screenshot of the finished webpage:
 
-    ```md
-    ![Finished screenshot](assets/images/johndavis92790.github.io_urban-octo-telegram-main_.png)
-    ```
+[Finished screenshot](assets/images/johndavis92790.github.io_urban-octo-telegram-main_.png)
 
 ## Credits
 
